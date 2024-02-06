@@ -15,7 +15,7 @@ Se recomienda crear una organización que sea la propietaria del repositorio pri
 5. Elegir plan y llenar datos
 
 <<<<<<< HEAD
-socorro sacarme de tunivers
+socorro sacarme de tunivers/
 =======
 ## Creación de Fork
 

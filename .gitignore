@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ignorar el directorio node_modules
 node_modules/
 
@@ -7,15 +6,13 @@ tailwind.config.js
  
 package-lock.json
 packege.json
-=======
-# Ignorar el directorio node_modules
-node_modules/
-
-postcss.config.js
-talwind.config.js
-
-package-lock.json
-package.json
->>>>>>> 6a84cbdc874f909278bfbc7b1e1676373fcc867d
 
 css/
+
+# Comprobamos con git remote -v que tenemos esto: 
+# TuniverS-O      https://github.com/2DAW-TuniverS-DiegoAlonso/TuniverS-git.git (fetch)
+# TuniverS-O      https://github.com/2DAW-TuniverS-DiegoAlonso/TuniverS-git.git (push)
+# origin  https://github.com/Daniel-Carril-Miranda/TuniverS-git.git (fetch)
+# origin  https://github.com/Daniel-Carril-Miranda/TuniverS-git.git (push)
+
+# Después hacemos git add -A , luego gir commit -m "" y por último git remote y git pull (nombre de la carpeta) dev

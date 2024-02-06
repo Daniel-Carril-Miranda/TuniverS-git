@@ -1,0 +1,10 @@
+# ignorar el directorio node_modules
+node_modules/
+
+postcss.config.js
+tailwind.config.js
+ 
+package-lock.json
+packege.json
+
+css/
